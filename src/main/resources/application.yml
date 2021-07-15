@@ -5,4 +5,4 @@ management:
     include: "*"
 spring:
   application:
-    name: ${app-name}
+    name: aggregate-demo
